@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zoboola World</title>
+</head>
+<body>
+  <h1>Welcome to Zoboola World!</h1>
+  <p>We create colorful, educational animated adventures
+  that teach children friendship, kindness and creativity.</p>
+
+  <p>Zoboola World uses an authorized publishing workflow
+  to prepare and upload approved videos to social media.</p>
+
+  <nav>
+    <a href="privacy.html">Privacy Policy</a> |
+    <a href="terms.html">Terms of Service</a>
+  </nav>
+</body>
+</html>
